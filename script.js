@@ -91,7 +91,7 @@ const images = [
     "url('src/img7.jpg')",
     "url('src/img8.jpg')",
     "url('src/img9.jpg')",
-    "url('src/img10.jpg')",
+    "url('src/img10.jpg')"
 ];
 
 function setRandomBackground() {
